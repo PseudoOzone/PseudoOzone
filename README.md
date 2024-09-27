@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pseudoozone" target="blank"><img src="https://img.shields.io/twitter/follow/pseudoozone?logo=twitter&style=for-the-badge" alt="pseudoozone" /></a> </p>
 
-- 🔭 I’m currently working on **UniAsaan**
+- 🔭 I’m currently working on **Niramaya**
 
-- 🌱 I’m currently learning **Swift and No Code**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PseudoOzone](https://github.com/PseudoOzone)
 
