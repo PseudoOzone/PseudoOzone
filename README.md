@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bakshianshuman117@gmail.com**
 
-- ⚡ Fun fact **I am a real good Esports Manager**
+- ⚡ Fun fact **I am a really good Football Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
