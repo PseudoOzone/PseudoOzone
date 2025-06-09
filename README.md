@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PseudoOzone](https://github.com/PseudoOzone)
 
-- 📫 How to reach me **anshuman.bakshi2004@gmail.com**
+- 📫 How to reach me **bakshianshuman117@gmail.com**
 
 - ⚡ Fun fact **I am a real good Esports Manager**
 
