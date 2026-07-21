@@ -1,37 +1,50 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Anshuman Bakshi</h1>
-<h3 align="center">A passionate Software Engineer studying in SRM Institute of Science & Technology</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
+# Anshuman Bakshi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pseudoozone&label=Profile%20views&color=0e75b6&style=flat" alt="pseudoozone" /> </p>
+**AI/ML Engineer | GenAI Engineer | Secure Enterprise AI**
 
-<p align="left"> <a href="https://twitter.com/pseudoozone" target="blank"><img src="https://img.shields.io/twitter/follow/pseudoozone?logo=twitter&style=for-the-badge" alt="pseudoozone" /></a> </p>
+I build secure, measurable AI systems across enterprise RAG, agentic workflows, financial fraud intelligence, federated learning, and privacy-preserving machine learning.
 
-- 🔭 I’m currently working on **Niramaya**
+## Current Focus
 
-- 🌱 I’m currently learning **GOlang**
+- Enterprise RAG with hybrid retrieval, reranking, citations, and evaluation
+- Secure agentic AI with MCP tools, access controls, and auditability
+- Financial AI security and evidence-grounded investigation workflows
+- Federated learning, differential privacy, and adversarial robustness
 
-- 👨‍💻 All of my projects are available at [https://github.com/PseudoOzone](https://github.com/PseudoOzone)
+## Featured Projects
 
-- 📫 How to reach me **bakshianshuman117@gmail.com**
+### [SentinXFL](https://github.com/PseudoOzone/SentinXFL)
+Privacy-preserving federated fraud detection across non-IID financial clients, with differential privacy, robust aggregation, adversarial-client simulation, evidence-first experiment artifacts, FastAPI services, and a React dashboard.
 
-- ⚡ Fun fact **I am a really good Football Player**
+### Enterprise RAG Intelligence Platform
+Secure enterprise knowledge and analytics platform with document and structured-data ingestion, hybrid retrieval, reranking, SQL-aware query routing, evidence-linked generation, RBAC, prompt-injection controls, and LLM evaluation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pseudoozone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pseudoozone" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshuman bakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman bakshi" height="30" width="40" /></a>
-<a href="https://instagram.com/anshumxnbakshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshumxnbakshi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pseudoozone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pseudoozone" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ab6354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ab6354" height="30" width="40" /></a>
-<a href="https://discord.gg/495589785130500096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="495589785130500096" height="30" width="40" /></a>
-</p>
+_Status: repository and public demo in progress._
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### FinGuard AI
+Financial AI security and investigation platform combining transaction-risk scoring, anomaly detection, policy-grounded RAG, secure agentic workflows, human approval, and evaluation for model and AI-security reliability.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pseudoozone&show_icons=true&locale=en&layout=compact" alt="pseudoozone" /></p>
+_Status: in development._
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pseudoozone&show_icons=true&locale=en" alt="pseudoozone" /></p>
+### [Transformer-Based Fraud Detection](https://github.com/PseudoOzone/GenAI-Powered-Fraud-Detection-System)
+Financial fraud-classification research implementation using transaction narratives, DistilBERT embeddings, GPT-2, LoRA-based parameter-efficient fine-tuning, and explainable risk summaries.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudoozone&" alt="pseudoozone" /></p>
+## Experience Highlights
+
+- Built secure GenAI backend and MCP workflows during an internship at GlobalLogic
+- Developed applied financial ML and GenAI work at the National University of Singapore
+- Automated REST API validation and event-driven integrations at Panasonic India
+
+## Core Stack
+
+**Languages:** Python, SQL, Go, Java, C++, TypeScript, JavaScript  
+**AI/ML:** PyTorch, scikit-learn, XGBoost, Transformers, Federated Learning, Differential Privacy  
+**GenAI:** Enterprise RAG, Hybrid Retrieval, Embeddings, Reranking, Tool Calling, MCP, Agentic AI, LLM Evaluation  
+**Engineering:** FastAPI, React, PostgreSQL, SQLite, Docker, Git, REST APIs  
+**Security:** RBAC, PII Protection, Prompt-Injection Defence, Tool Allowlists, Human Approval, Audit Logging
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/anshuman-bakshi)
+- [Email](mailto:bakshianshuman117@gmail.com)
+- Location: Gurgaon, India
