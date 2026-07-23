@@ -1,50 +1,43 @@
 # Anshuman Bakshi
 
-**AI/ML Engineer | GenAI Engineer | Secure Enterprise AI**
+**ML Engineer | GenAI Engineer | Secure AI Systems**
 
-I build secure, measurable AI systems across enterprise RAG, agentic workflows, financial fraud intelligence, federated learning, and privacy-preserving machine learning.
+Recently completed a B.Tech in Computer Science and Engineering. I build practical AI systems across machine learning, retrieval-augmented generation, agent workflows, fraud intelligence, federated learning, and privacy-aware engineering.
 
 ## Current Focus
 
-- Enterprise RAG with hybrid retrieval, reranking, citations, and evaluation
-- Secure agentic AI with MCP tools, access controls, and auditability
-- Financial AI security and evidence-grounded investigation workflows
-- Federated learning, differential privacy, and adversarial robustness
+- Production-oriented Python and ML engineering
+- RAG with retrieval evaluation, reranking, citations, and failure handling
+- Secure agent workflows with tool permissions, auditability, and human approval
+- Financial fraud detection, federated learning, differential privacy, and adversarial robustness
 
-## Featured Projects
+## Selected Public Work
 
 ### [SentinXFL](https://github.com/PseudoOzone/SentinXFL)
-Privacy-preserving federated fraud detection across non-IID financial clients, with differential privacy, robust aggregation, adversarial-client simulation, evidence-first experiment artifacts, FastAPI services, and a React dashboard.
+Academic research prototype for privacy-aware federated fraud detection across non-IID clients. It includes classical and deep-learning experiments, Flower-based federated workflows, robust aggregation, differential-privacy experiments, adversarial-client simulations, FastAPI services, tests, and a React dashboard.
 
-### Enterprise RAG Intelligence Platform
-Secure enterprise knowledge and analytics platform with document and structured-data ingestion, hybrid retrieval, reranking, SQL-aware query routing, evidence-linked generation, RBAC, prompt-injection controls, and LLM evaluation.
+### [Transformer-Based Fraud Narrative Experiments](https://github.com/PseudoOzone/GenAI-Powered-Fraud-Detection-System)
+Applied ML project that converts structured transaction records into deterministic narratives, fine-tunes DistilBERT for fraud classification and representation learning, and explores GPT-2 LoRA for narrative-generation research.
 
-_Status: repository and public demo in progress._
+### [Smart Waste Detector](https://github.com/PseudoOzone/Waste-Detection-using-YOLOv11)
+Computer-vision prototype using a custom Ultralytics YOLO model and Streamlit for image and local-webcam inference, threshold controls, annotated outputs, and session reporting.
 
-### FinGuard AI
-Financial AI security and investigation platform combining transaction-risk scoring, anomaly detection, policy-grounded RAG, secure agentic workflows, human approval, and evaluation for model and AI-security reliability.
+## Applied and Private Work
 
-_Status: in development._
-
-### [Transformer-Based Fraud Detection](https://github.com/PseudoOzone/GenAI-Powered-Fraud-Detection-System)
-Financial fraud-classification research implementation using transaction narratives, DistilBERT embeddings, GPT-2, LoRA-based parameter-efficient fine-tuning, and explainable risk summaries.
-
-## Experience Highlights
-
-- Built secure GenAI backend and MCP workflows during an internship at GlobalLogic
-- Developed applied financial ML and GenAI work at the National University of Singapore
-- Automated REST API validation and event-driven integrations at Panasonic India
+- Built secure GenAI backend, code-audit, and MCP workflow components during an internship at GlobalLogic. Company code and internal documents are not published.
+- Building the **AB Minerals Knowledge Intelligence System**, an ongoing internal RAG and business-analytics system. Business data and operational code remain private.
+- Developed REST API automation and event-driven integrations during an internship at Panasonic India.
 
 ## Core Stack
 
 **Languages:** Python, SQL, Go, Java, C++, TypeScript, JavaScript  
-**AI/ML:** PyTorch, scikit-learn, XGBoost, Transformers, Federated Learning, Differential Privacy  
-**GenAI:** Enterprise RAG, Hybrid Retrieval, Embeddings, Reranking, Tool Calling, MCP, Agentic AI, LLM Evaluation  
-**Engineering:** FastAPI, React, PostgreSQL, SQLite, Docker, Git, REST APIs  
-**Security:** RBAC, PII Protection, Prompt-Injection Defence, Tool Allowlists, Human Approval, Audit Logging
+**ML/DL:** PyTorch, scikit-learn, Transformers, Federated Learning, Differential Privacy, Model Evaluation  
+**GenAI:** RAG, Embeddings, Reranking, Tool Calling, MCP, Agentic Workflows, LLM Evaluation  
+**Engineering:** FastAPI, React, SQLite, Docker, Git, REST APIs  
+**Security:** RBAC, PII-Aware Processing, Prompt-Injection Controls, Tool Allowlists, Human Approval, Audit Logging
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/anshuman-bakshi)
 - [Email](mailto:bakshianshuman117@gmail.com)
-- Location: Gurgaon, India
+- Gurgaon, India
