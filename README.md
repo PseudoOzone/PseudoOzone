@@ -19,8 +19,8 @@ Academic research prototype for privacy-aware federated fraud detection across n
 ### [Transformer-Based Fraud Narrative Experiments](https://github.com/PseudoOzone/GenAI-Powered-Fraud-Detection-System)
 Applied ML project that converts structured transaction records into deterministic narratives, fine-tunes DistilBERT for fraud classification and representation learning, and explores GPT-2 LoRA for narrative-generation research.
 
-### [Smart Waste Detector](https://github.com/PseudoOzone/Waste-Detection-using-YOLOv11)
-Computer-vision prototype using a custom Ultralytics YOLO model and Streamlit for image and local-webcam inference, threshold controls, annotated outputs, and session reporting.
+### [Waste Vision and ML Fundamentals Lab](https://github.com/PseudoOzone/Waste-Detection-using-YOLOv11)
+Original learning portfolio with a modular Ultralytics YOLO inference application, training and evaluation scripts, tests, and four small projects covering classification, regression, clustering, and behavioural anomaly detection. No undocumented model checkpoint is presented as original work.
 
 ## Applied and Private Work
 
