@@ -4,7 +4,7 @@
 
 Computer Science graduate from SRM Institute of Science and Technology with internship experience at GlobalLogic, the National University of Singapore, and Panasonic India. I build practical GenAI, machine-learning, and backend systems using Python, SQL, RAG, model evaluation, and FastAPI.
 
-[View Resume](./resume/Anshuman-Bakshi-Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/anshuman-bakshi) | [Email](mailto:bakshianshuman117@gmail.com)
+[View Resume](resume/ANSHUMAN_BAKSHI_RESUME_280726.pdf) | [LinkedIn](https://www.linkedin.com/in/anshuman-bakshi) | [Email](mailto:bakshianshuman117@gmail.com)
 
 ## Selected Impact
 
