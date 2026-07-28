@@ -1,6 +1,6 @@
 # Anshuman Bakshi
 
-**ML Engineer | GenAI Engineer | Secure AI Systems**
+**AI/ML Engineer | Generative AI Engineer | AI-Focused Software Engineer**
 
 Recently completed a B.Tech in Computer Science and Engineering. I build practical AI systems across machine learning, retrieval-augmented generation, agent workflows, fraud intelligence, federated learning, and privacy-aware engineering.
 
